@@ -1,4 +1,4 @@
-New [Portfolio](http://www.harshgupta.ga) Website :)
+New [Portfolio](http://www.hashgupta.ga) Website :)
 
 Tech-Stack : HTML,CSS,JS
 
